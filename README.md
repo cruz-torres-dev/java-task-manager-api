@@ -121,6 +121,7 @@ src/main/java/com/portfolio/taskmanager/
    Username: sa
    Password: (leave empty)
    ```
+<img width="1913" height="1003" alt="image" src="https://github.com/user-attachments/assets/f6495039-8e3a-407c-abc3-3cc9eddadab9" />
 
 ---
 
