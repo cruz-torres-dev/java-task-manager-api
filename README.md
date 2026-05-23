@@ -113,6 +113,7 @@ src/main/java/com/portfolio/taskmanager/
    ```
    http://localhost:8080/api/v1/tasks
    ```
+<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/c271354a-0250-4b20-8d1e-43f08d4dae2f" />
 
 5. **Access the H2 Database Console (optional):**
    ```
