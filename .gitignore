@@ -1,0 +1,45 @@
+# ========================================================================================
+# .gitignore — Files and directories to exclude from Git version control
+# ========================================================================================
+
+# --- Compiled output ---
+target/
+*.class
+
+# --- IDE-specific files ---
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# --- Maven ---
+*.jar
+*.war
+*.ear
+!.mvn/wrapper/maven-wrapper.jar
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Spring Boot ---
+*.log
+logs/
+
+# --- Environment / Secrets ---
+.env
+*.env
+
+# --- H2 Database files (if file-based mode is used) ---
+*.mv.db
+*.trace.db
